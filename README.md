@@ -7,6 +7,7 @@ This repository is for current and future project developments with the intent o
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [SIEM Lab using Elastic Stack](https://github.com/AnthonyBokach/SIEMLab)
+  - [Private IRC Network - Anonymous IRC Network Architecture Lab](https://github.com/AnthonyBokach/PrivateIRCLab)
 
 
 <h2> 🤳 Connect with me:</h2>
